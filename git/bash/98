@@ -1,0 +1,5 @@
+# echo "Best" -> echo "Best School"
+sed -i 's/echo "Best"/echo "Best School"/' git/bash/best
+
+# exho "School" -> echo "The school is open!"
+sed -i 's/echo "School"/echo "The school is open"/' git/bash/school
